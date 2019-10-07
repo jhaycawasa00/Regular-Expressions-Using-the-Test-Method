@@ -1,4 +1,4 @@
-Description:
+# Description:
 
 Regular expressions are used in programming languages to match parts of strings. You create patterns to help you do that matching.
 
@@ -15,16 +15,16 @@ testRegex.test(testStr);
 // Returns true
 
 
-Instruction:
+# Instruction:
 Apply the regex myRegexon the string myStringusing the .test()method.
 
 
-Tests:
+# Tests:
 - You should use .test()to test the regex.
 - Your result should return true.
 
 
-Challenge seed:
+# Challenge seed:
 
 let myString = "Hello, World!";
 
@@ -34,7 +34,7 @@ let result = myRegex; // Change this line
 
 
 
-Solution:
+# Solution:
 
 let myString = "Hello, World!";
 
